@@ -1,4 +1,4 @@
-# 
+# updated Obsidian for Windows Workflow | templates + web-clipper offers the most advanced Obsidian for Windows workflow, with templates and web-clipper. Ideal for Windows
 
 
 
